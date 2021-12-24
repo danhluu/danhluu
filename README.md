@@ -1,4 +1,4 @@
-### Hi there, I'm Luu 👋
+# Hi there, I'm Luu 👋
 
 
 **ndl9xcdkthd/ndl9xcdkthd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
