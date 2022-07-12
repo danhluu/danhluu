@@ -14,8 +14,14 @@
  </a>
 </p>
 
-- 🔭 I’m currently working on [HTC](http://htc.net.vn/)
+- 🔭 I’m currently working as **fulltime dev**
 - 🌱 I’m currently learning [ASP.NET Core](https://fullstackhero.net/)
 - 📫 How to reach me: [Facebook](https://www.facebook.com/jin.mitaka.1919/) | [LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-l%C6%B0u-1369bb169/)  
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+<a href="https://github.com/tknightz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ndl9xcdkthd&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="ndl9xcdkthd GitHub statsication" />
+</a>
+<a href="https://github.com/tknightz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndl9xcdkthd&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+</a>
