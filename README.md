@@ -25,3 +25,40 @@
 <a href="https://github.com/ndl9xcdkthd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndl9xcdkthd&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
+
+---
+
+<p align="center"> 
+ <strong>
+  Professional skills
+  </strong>
+</p>
+
+<p align="center">
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="60px" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://angular.io">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px;">
+  </a>  
+  <a href="https://hub.docker.com/">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="https://www.rabbitmq.com">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.github.com">
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
+  </a>
+ 
+</p>
+<br/>
