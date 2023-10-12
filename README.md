@@ -10,7 +10,7 @@
    <img src="https://img.shields.io/badge/danhluu.somee.com-brightgreen?style=flat-square" />
  </a>
  <a>
-   <img src="https://komarev.com/ghpvc/?username=danhluu&style=for-the-badge" />
+   <img src="https://komarev.com/ghpvc/?username=danhluu&style=flat-square" />
  </a>
 </p>
 
