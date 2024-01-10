@@ -28,8 +28,7 @@
 
 ---
 
--abc\
--xyz
+-abc <br /> xyz
 
 <p align="center"> 
  <strong>
