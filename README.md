@@ -28,8 +28,6 @@
 
 ---
 
--abc <br /> xyz
-
 <p align="center"> 
  <strong>
   Professional skills
