@@ -13,7 +13,8 @@
    <img src="https://komarev.com/ghpvc/?username=danhluu&style=flat-square" />
  </a>
 </p>
-
+-abc\
+-xyz
 - 🔭 I’m currently working as **fulltime dev**
 - 🌱 I’m currently learning [ASP.NET Core](https://fullstackhero.net/)
 - 📫 How to reach me: [Facebook](https://www.facebook.com/jin.mitaka.1919/) | [LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-l%C6%B0u-1369bb169/)  
