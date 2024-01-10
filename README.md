@@ -34,7 +34,8 @@
   </strong>
 </p>
 
--abc\-xyz
+-abc\
+-xyz
 
 <p align="center">
   <a href="https://dotnet.microsoft.com/">
